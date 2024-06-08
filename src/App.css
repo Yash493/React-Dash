@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+#root {
+  padding: 20px;
+}
+
+.chart-container {
+  width: 80%;
+  margin: 0 auto;
+}
